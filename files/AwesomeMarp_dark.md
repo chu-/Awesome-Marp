@@ -4,7 +4,7 @@ size: 16:9
 theme: am_dark
 paginate: true
 headingDivider: [2,3]
-footer: \ *褚士兵（虹鹄山庄）* *Awesome Marp：轻松取代 LaTeX Beamer！* *2024年1月13日（v1.3）*
+footer: \ *褚士兵* *Awesome Marp：轻松取代 LaTeX Beamer！* *2024年1月13日（v1.3）*
 ---
 
 
@@ -18,10 +18,10 @@ footer: \ *褚士兵（虹鹄山庄）* *Awesome Marp：轻松取代 LaTeX Beame
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
 @褚士兵
-公众号：虹鹄山庄
+公众号：oo_oo-chu
 发布时间：2024 年 1 月 13 日（v1.3）
 <c@ujs.edu.cn>
-Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
+Awesome-Marp 地址：[GitHub 库](https://github.com/chu-/Awesome-Marp)/[Gitee 库](https://gitee.com/chu-/Awesome-Marp)
 
 ## Awesome Marp 有什么？
 
@@ -55,7 +55,7 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 - **Awesome Marp 的几个特色：**
   - 支持分栏呈现、支持 Callouts（类似于 Beamer 中的定理框）、提供多种类型的封面页和目录页、可以实现导航进度栏、图片支持自定义居中/居左/居右对齐等 
 
-- 本着「开箱即用」的原则，我将本项目文件夹打包上传到了[GitHub](https://github.com/favourhong/Awesome-Marp) 和 [Gitee](https://gitee.com/favourhong/Awesome-Marp)
+- 本着「开箱即用」的原则，我将本项目文件夹打包上传到了[GitHub](https://github.com/chu-/Awesome-Marp) 和 [Gitee](https://gitee.com/chu-/Awesome-Marp)
 - 用到的工具：软件 [Visual Studio Code](https://code.visualstudio.com) 或 [Obsidian](https://obsidian.md/)、[Marp for VScode（插件）](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 
 ## 1. 关于模板
@@ -146,17 +146,17 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
 @褚士兵
-公众号：虹鹄山庄
+公众号：oo_oo-chu
 发布时间：2024 年 1 月 13 日（v1.3）
 <c@ujs.edu.cn>
-Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
+Awesome-Marp 地址：[GitHub 库](https://github.com/chu-/Awesome-Marp)/[Gitee 库](https://gitee.com/chu-/Awesome-Marp)
 
 ---
 
 <!-- _class: cover_c -->
 <!-- _paginate: "" -->
 <!-- _footer: 厚德博学 经济匡时 -->
-<!-- _header: ![](https://mytuchuang-1303248785.cos.ap-beijing.myqcloud.com/picgo/202405291116463.png) -->
+<!-- _header: ![](../images/ujs_logo_green.png) -->
 
 
 # <!-- fit -->Awesome Marp：轻松取代 LaTeX Beamer！
@@ -164,10 +164,10 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
 @褚士兵
-公众号：虹鹄山庄
+公众号：oo_oo-chu
 发布时间：2024 年 1 月 13 日（v1.3）
 <c@ujs.edu.cn>
-Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
+Awesome-Marp 地址：[GitHub 库](https://github.com/chu-/Awesome-Marp)/[Gitee 库](https://gitee.com/chu-/Awesome-Marp)
 
 ---
 
@@ -180,17 +180,17 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
 @褚士兵
-公众号：虹鹄山庄
+公众号：oo_oo-chu
 发布时间：2024 年 1 月 13 日（v1.3）
 <c@ujs.edu.cn>
-Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
+Awesome-Marp 地址：[GitHub 库](https://github.com/chu-/Awesome-Marp)/[Gitee 库](https://gitee.com/chu-/Awesome-Marp)
 
 ---
 
 <!-- _class: cover_e -->
 <!-- _paginate: "" -->
-<!-- _footer: ![](https://mytuchuang-1303248785.cos.ap-beijing.myqcloud.com/picgo/202405291116463.png) -->
-<!-- _header: ![](https://mytuchuang-1303248785.cos.ap-beijing.myqcloud.com/picgo/202405291053273.png) -->
+<!-- _footer: ![](../images/ujs_logo_green.png) -->
+<!-- _header: ![](../images/ujs_badge.png) -->
 
 
 # <!-- fit -->Awesome Marp：轻松取代 LaTeX Beamer！
@@ -198,10 +198,10 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
 @褚士兵
-公众号：虹鹄山庄
+公众号：oo_oo-chu
 发布时间：2024 年 1 月 13 日（v1.3）
 <c@ujs.edu.cn>
-Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
+Awesome-Marp 地址：[GitHub 库](https://github.com/chu-/Awesome-Marp)/[Gitee 库](https://gitee.com/chu-/Awesome-Marp)
 
 ## 3. 目录页
 
@@ -238,7 +238,7 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 
 ---
 
-<!-- _header: 目录<br>CONTENTS<br>![](https://mytuchuang-1303248785.cos.ap-beijing.myqcloud.com/picgo/202405291053273.png)-->
+<!-- _header: 目录<br>CONTENTS<br>![](../images/ujs_badge.png)-->
 <!-- _class: toc_b -->
 <!-- _footer: "" -->
 <!-- _paginate: "" -->
@@ -723,7 +723,7 @@ Awesome Marp v1.3 提供了 6 种列表分列的方式，分别为：
 
 ```markdown
 <!-- _class: navbar -->
-<!-- _header: \ ***虹鹄山庄***      
+<!-- _header: \ ***oo_oo-chu***      
 
 - 自定义样式为 `navbar`：`<!-- _class: navbar -->` 
 - 导航栏修改自 header，最前面必须加入 `\ `
@@ -921,9 +921,9 @@ footer: 褚士兵 # 设置页脚区域的内容，如果设定页眉的内容，
 - <i class="fa-solid fa-envelope"></i>
   - 邮箱：c@ujs.edu.cn
 - <i class="fa-brands fa-weixin"></i> 
-  - 微信：favourhong  
+  - 微信：chu-  
 - <i class="fa-solid fa-house"></i> 
-  - 公众号：虹鹄山庄
+  - 公众号：oo_oo-chu
 
 <div>
 
