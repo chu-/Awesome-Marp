@@ -4,7 +4,7 @@ size: 16:9
 theme: am_brown
 paginate: true
 headingDivider: [2,3]
-footer: \ *初虹（虹鹄山庄）* *Awesome Marp：轻松取代 LaTeX Beamer！* *2024年1月13日（v1.3）*
+footer: \ *褚士兵（虹鹄山庄）* *Awesome Marp：轻松取代 LaTeX Beamer！* *2024年1月13日（v1.3）*
 ---
 
 
@@ -17,10 +17,10 @@ footer: \ *初虹（虹鹄山庄）* *Awesome Marp：轻松取代 LaTeX Beamer�
 
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
-@初虹
+@褚士兵
 公众号：虹鹄山庄
 发布时间：2024 年 1 月 13 日（v1.3）
-<ch2099058972@163.com>
+<c@ujs.edu.cn>
 Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
 
 ## Awesome Marp 有什么？
@@ -145,10 +145,10 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
-@初虹
+@褚士兵
 公众号：虹鹄山庄
 发布时间：2024 年 1 月 13 日（v1.3）
-<ch2099058972@163.com>
+<c@ujs.edu.cn>
 Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
 
 ---
@@ -163,10 +163,10 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
-@初虹
+@褚士兵
 公众号：虹鹄山庄
 发布时间：2024 年 1 月 13 日（v1.3）
-<ch2099058972@163.com>
+<c@ujs.edu.cn>
 Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
 
 ---
@@ -179,10 +179,10 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
-@初虹
+@褚士兵
 公众号：虹鹄山庄
 发布时间：2024 年 1 月 13 日（v1.3）
-<ch2099058972@163.com>
+<c@ujs.edu.cn>
 Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
 
 ---
@@ -197,10 +197,10 @@ Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[
 
 ###### “用法简单、功能全面的个性化 PPT 模板”
 
-@初虹
+@褚士兵
 公众号：虹鹄山庄
 发布时间：2024 年 1 月 13 日（v1.3）
-<ch2099058972@163.com>
+<c@ujs.edu.cn>
 Awesome-Marp 地址：[GitHub 库](https://github.com/favourhong/Awesome-Marp)/[Gitee 库](https://gitee.com/favourhong/Awesome-Marp)
 
 ## 3. 目录页
@@ -901,7 +901,7 @@ size: 16:9        # 设定页面比例，常见有 16:9 或 4:3，默认为16:9
 theme: gaia       # 切换主题，内置 3 种样式的主题，可以自定义主题
 paginate: true    # 开启页码
 headingDivider: 2 # 通过二级标题切分页面，省去手动换页的麻烦
-footer: 初虹 # 设置页脚区域的内容，如果设定页眉的内容，则为 header
+footer: 褚士兵 # 设置页脚区域的内容，如果设定页眉的内容，则为 header
 ---
 ```
 
@@ -919,7 +919,7 @@ footer: 初虹 # 设置页脚区域的内容，如果设定页眉的内容，则
 <div class="icons">
 
 - <i class="fa-solid fa-envelope"></i>
-  - 邮箱：ch2099058972@163.com
+  - 邮箱：c@ujs.edu.cn
 - <i class="fa-brands fa-weixin"></i> 
   - 微信：favourhong  
 - <i class="fa-solid fa-house"></i> 

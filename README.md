@@ -1,5 +1,5 @@
 
-[✨ README-en](https://github.com/favourhong/Awesome-Marp/blob/main/README-en.md)、[🎉 README-zh](https://github.com/favourhong/Awesome-Marp/blob/main/README.md)
+[✨ README-en](https://github.com/chu-/Awesome-Marp/blob/main/README-en.md)、[🎉 README-zh](https://github.com/chu-/Awesome-Marp/blob/main/README.md)
 
 # Awesome Marp：轻松取代 LaTeX Beamer！
 
